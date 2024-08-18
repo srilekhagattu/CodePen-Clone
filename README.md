@@ -10,10 +10,10 @@ This is a simplified CodePen clone built using React and Material-UI
 
 1. Clone the repo
    
-    `git clone https://github.com/srilekhagattu/codepen-clone`
+    `git clone https://github.com/srilekhagattu/CodePen-Clone`
    
     
-3. Install Project dependencies
+2. Install Project dependencies
 
     `npm install`
 
